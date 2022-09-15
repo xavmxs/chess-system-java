@@ -9,7 +9,7 @@ public class Application {
 		Position pos = new Position (3,5);
 		System.out.println(pos);
 		System.out.println("");
-		System.out.println("");
+		System.out.println("tentando corrigir o erro");
 		
 		
 		
